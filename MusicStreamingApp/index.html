@@ -1,0 +1,86 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0"/>
+  <title>Unified Mentor - Music App</title>
+  <link rel="stylesheet" href="style.css">
+</head>
+<body>
+  <div class="app-container">
+    <aside class="sidebar">
+      <div class="logo">🎵 Unified Mentor</div>
+      <ul class="nav-links">
+        <li class="active">🏠 Home</li>
+        <li>🔍 Browse</li>
+        <li>❤️ Favorite</li>
+        <li>🎧 Library</li>
+      </ul>
+    </aside>
+
+    <main class="main-content">
+      <div class="song-grid">
+        <div class="song-card">
+          <img src="assets/song1.jpg" alt="Millionaire" />
+          <div class="song-info">
+            <h3>Millionaire</h3>
+            <p>Yo Yo Honey Singh</p>
+          </div>
+        </div>
+        <div class="song-card">
+          <img src="assets/song2.jpg" alt="Monster" />
+          <div class="song-info">
+            <h3>Monster Song KGF-2</h3>
+            <p>Ravi Basrur</p>
+          </div>
+        </div>
+        <div class="song-card">
+          <img src="assets/song3.jpg" alt="Blue Eyes" />
+          <div class="song-info">
+            <h3>Blue Eyes</h3>
+            <p>Yo Yo Honey Singh</p>
+          </div>
+        </div>
+      </div>
+    </main>
+
+    <aside class="right-panel">
+      <section class="top-streams">
+        <h3>Top Streams Real-time</h3>
+        <div class="toggle-btns">
+          <button class="active">Local</button>
+          <button>Global</button>
+        </div>
+        <ol>
+          <li>Millionaire - Yo Yo Honey Singh</li>
+          <li>Varaha Roopam - Ajaneesh Loknath</li>
+          <li>Monster Song - Ravi Basrur</li>
+          <li>Blue Eyes - Yo Yo Honey Singh</li>
+          <li>Aaj Ki Raat - Madhubanti Bagchi</li>
+        </ol>
+      </section>
+
+      <section class="categories">
+        <h3>Categories</h3>
+        <div class="category-grid">
+          <div class="cat">Pop</div>
+          <div class="cat">Chill</div>
+          <div class="cat">Podcast</div>
+          <div class="cat">Christmas</div>
+          <div class="cat">Romance</div>
+          <div class="cat">Hip Hop</div>
+          <div class="cat">Rock</div>
+          <div class="cat">Jazz</div>
+        </div>
+      </section>
+
+      <section class="volume-control">
+        <label for="volume">Volume</label>
+        <input type="range" id="volume" min="0" max="100" />
+      </section>
+    </aside>
+  </div>
+
+  <script src="script.js"></script>
+</body>
+</html>
