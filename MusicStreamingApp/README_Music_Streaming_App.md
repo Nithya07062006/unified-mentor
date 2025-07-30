@@ -26,8 +26,6 @@ music-streaming-app/
 ├── script.js
 ├── assets/
 │   ├── songs/          # Music files
-│   ├── images/         # Album covers, icons
-│   └── logo.png
 └── README.md
 ```
 
@@ -47,13 +45,6 @@ music-streaming-app/
 - **CSS3** (Flexbox, Grid, custom styles)
 - **JavaScript** (DOM Manipulation, Audio API)
 
----
-
-## 📸 Screenshots
-
-> _(Optional: You can add screenshots of your app UI here for better presentation.)_
-
----
 
 ## 🙋‍♀️ Author
 
