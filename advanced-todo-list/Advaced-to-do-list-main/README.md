@@ -3,8 +3,8 @@
 
 # To open projet : https://advaced-to-do-list.vercel.app/
 
-[![GitHub last commit](https://img.shields.io/github/last-commit/Rohith0750/Advaced-to-do-list)](https://github.com/Rohith0750/Advaced-to-do-list)
-[![GitHub license](https://img.shields.io/github/license/Rohith0750/Advaced-to-do-list)](https://github.com/Rohith0750/Advaced-to-do-list/blob/main/LICENSE)
+[![GitHub last commit](https://img.shields.io/github/last-commit/Nithya07062006/Advaced-to-do-list)](https://github.com/Nithya07062006/Advaced-to-do-list)
+[![GitHub license](https://img.shields.io/github/license/Nithya07062006/Advaced-to-do-list)](https://github.com/Nithya07062006/Advaced-to-do-list/blob/main/LICENSE)
 
 ## 📖 Overview
 
@@ -59,7 +59,7 @@ Advaced-to-do-list/
 ### 📥 Installation
 1. Clone the repository:
    ```bash
-   git clone https://github.com/Rohith0750/Advaced-to-do-list.git
+   git clone https://github.com/Nithya07062006/Advaced-to-do-list.git
 
 
 # Navigate into the project directory:
@@ -107,7 +107,7 @@ git push origin feature/YourFeature
 This project is licensed under the MIT License — see the LICENSE file for details.
 
 # 📧 Contact
-Rohith0750 — Reach me on GitHub for questions or suggestions.
+Nithya07062006 — Reach me on GitHub for questions or suggestions.
 Happy Coding! 🎉
 
 
